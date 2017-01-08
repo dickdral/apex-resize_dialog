@@ -1,17 +1,9 @@
 {
-<<<<<<< HEAD
   "name" : "Resize Dialog",
   "version" : "v1.0",
   "description" : "Resize Dialog resizes an Apex modal dialog to fit its contents",
   "keywords" : ["dialog","resize","dynamic action"],
   "homepage" : "https://github.com/dickdral/apexresizedialog",
-=======
-  "name" : "report2columns",
-  "version" : "v1.1",
-  "description" : "report2columns enbables you to distribute you Apex report over more multiple columns",
-  "keywords" : ["report","columns","multiple","dynamic action"],
-  "homepage" : "https://github.com/dickdral/apex-report2columns",
->>>>>>> origin/master
   "bugs" : {
     "url" : "https://github.com/dickdral/apexresizedialog/issues",
     "email" : "dick.dral@detora.nl"
