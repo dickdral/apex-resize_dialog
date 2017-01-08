@@ -10,9 +10,9 @@ In the attributes a margin and whether the dialog should be centered can be spec
 The plugin can be used with Apex 5.0 and Apex 5.1 in applications using Universal Theme. 
 
 ## Install
-- Import plugin file "dynamic_action_plugin_nl_detora_apex_report2columns.sql" from source directory into your application
-- Add an After Refresh Dynamic Action to the region to be affected
-- In the True Action refer to the report2columns [Plug-In] and adjust the Settings if desired
+- Import plugin file "dynamic_action_plugin_nl_detora_apex_resize_dialog.sql" from source directory into your application
+- You can use the plug-in for any event after which you want the modal size to be adjusted
+- Use the settings to center the dialog or set the margin
 
 ## Plugin Settings
 The plugin settings are customizable and you can change:
