@@ -1,13 +1,13 @@
-# Oracle APEX Dynamic Action Plugin -  report2columns
-Oracle Apex plugin for distributing a Classic report over more than one column. 
+# Oracle APEX Dynamic Action Plugin -  Resize Dialog
+Oracle Apex for resizing modal dialogs. 
 
-The number of columns and the sort order of the elements can be specified. 
+In the attributes a margin and whether the dialog should be centered can be specified. 
 
 ## Change history
-- V1.1 CSS file added
+- V1.0    Initial version
 
 ## Requirements
-The plugin can be used with Apex 5.0 and Apex 5.1 in applications using Universal Theme. The plugin is written for Classic Reports with the Standard Theme.
+The plugin can be used with Apex 5.0 and Apex 5.1 in applications using Universal Theme. 
 
 ## Install
 - Import plugin file "dynamic_action_plugin_nl_detora_apex_report2columns.sql" from source directory into your application
@@ -16,29 +16,11 @@ The plugin can be used with Apex 5.0 and Apex 5.1 in applications using Universa
 
 ## Plugin Settings
 The plugin settings are customizable and you can change:
-- **Number of Columns** - The number of columns over which the report should be distributed
-- **Direction** - Direction in which the elements are ordered:
-
-**Vertical** ( default )
-
-1    4
-
-2    5
-
-3    6
-
-
-**Horizontal**
-
-1    2
-
-3    4
-
-5    6
-
+- **Center Dialog?** - Whether or not the dialog is centered vertically
+- **Margin** - The minimal margin around the dialog
 ## Demo Application
-http://www.speech2form.com/ords/f?p=OPFG:REP2COL
+http://www.speech2form.com/ords/f?p=OPFG:RESIZE_DIALOG
 
 ## Preview
-![](https://github.com/dickdral/apex-report2columns/blob/master/report2columns_example.png?raw=true)
+![](https://raw.githubusercontent.com/dickdral/apex-resize_dialog/master/resize_dialog_example.gif?raw=true)
 ---
