@@ -1,6 +1,6 @@
 {
   "name" : "Resize Dialog",
-  "version" : "v1.0",
+  "version" : "v1.0.1",
   "description" : "Resize Dialog resizes an Apex modal dialog to fit its contents",
   "keywords" : ["dialog","resize","dynamic action"],
   "homepage" : "https://github.com/dickdral/apex-resize_dialog",
